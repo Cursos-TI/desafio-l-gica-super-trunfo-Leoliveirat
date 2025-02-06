@@ -7,6 +7,8 @@
 
 int main() {
 
+    printf("");
+
 //desafio atualizado
 
     // Definição das variáveis para armazenar as propriedades das cidades
