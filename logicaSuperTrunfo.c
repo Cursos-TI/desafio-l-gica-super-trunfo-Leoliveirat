@@ -136,7 +136,8 @@ scanf("%d", &opcao2);
         }
         break;
           
-case 2: //MENU DE ESCOLHA DOS 2 ATRIBUTOS
+//MENU DE ESCOLHA DOS 2 ATRIBUTOS
+case 2: 
 printf("Escolha os dois atributos que você deseja comparar, Escolha digitando o número da opção.\n");
 printf("1 - População\n");
 printf("2 - Área\n");
